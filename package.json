@@ -1,0 +1,25 @@
+{
+  "name": "rest-errors",
+  "version": "0.0.1",
+  "description": "A Rest API error handler for Express",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ./tests/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronholmes/rest-errors.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "error",
+    "handling"
+  ],
+  "author": "Aaron Holmes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronholmes/rest-errors/issues"
+  },
+  "homepage": "https://github.com/aaronholmes/rest-errors#readme"
+}
